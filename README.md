@@ -1,0 +1,1 @@
+# plugins-password-protected-woo-store
